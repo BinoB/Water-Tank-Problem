@@ -1,29 +1,22 @@
-# Water Tank Problem Visualization
+# Max Profit Calculator
 
-This project visualizes the "Water Tank Problem" using JavaScript and the ECharts library. The goal is to calculate and display the units of water retained between walls in a bar visualization format. This project includes two visualizations:
-1. **Wall and Water Visualization** - Displays both walls and water retained between them.
-2. **Only Water Visualization** - Displays only the water retained between walls.
+This project is a Max Profit Calculator that helps determine maximum earnings based on user-inputted time units. It uses an interactive web interface where users can input time units, calculate maximum profit, and view results based on a specific formula for optimized earnings.
 
 ## Project Preview
-### Wall and Water Visualization
-![Wall and Water Visualization](https://drive.google.com/uc?export=view&id=1qPoerAa32q2t4GnuPB7rA_Unx3rE89wd)
-
-### Only Water Visualization
-![Only Water Visualization](https://drive.google.com/uc?export=view&id=1QvcRsM5HvP0IjgkSAN2ZiqtU6XiX9VtO)
+![Max Profit Calculator](https://drive.google.com/uc?export=view&id=1hYx6GjjptObSQ1gyk0l6jO76Xzy9Re8n)
 
 ## Features
-- **Interactive Input**: Users can input wall heights as a comma-separated list.
-- **Visualizations**: Two views show water and walls, or only water retained, using ECharts.
-- **Total Water Calculation**: The total amount of water units retained is displayed below the visualizations.
+- **Interactive Input**: Users can input time units, and the calculator provides maximum profit based on different scenarios.
+- **Two Output Solutions**: Displays two solutions when specific criteria are met, showing alternate ways to maximize profit.
+- **Detailed Breakdown**: Shows how many times each category (Theater, Pub, Park) is used to maximize earnings.
 
 ## Tech Stack
 - **HTML/CSS**: For structure and styling.
-- **JavaScript**: For logic and interaction.
-- **ECharts**: For data rendering.
+- **JavaScript**: For logic to calculate maximum profit based on time units.
 
 ## Setup and Usage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/water-tank-problem.git
-   cd water-tank-problem
+   git clone https://github.com/BinoB/Max-Profit-Problem.git
+   cd max-profit-problem
